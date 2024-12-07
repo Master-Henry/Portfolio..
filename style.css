@@ -1,0 +1,85 @@
+header {
+    width: 100%;
+    background-color: white;
+    
+    color: aqua;
+    padding: 0.5px;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+body{
+
+    background-color: rgb(175, 199, 175);
+    padding: 0px;
+    margin: 0px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+}
+
+header nav ul li {
+    list-style: none;
+}
+
+.header-ul {
+    display: flex;
+    gap: 30px;
+}
+
+.skills {
+    background: rgba(0, 0, 0, 0.07);
+    border: 3px solid white;
+    width: 50%;
+    padding: 20px;
+}
+
+.divdiv {
+    display: flex;
+    gap: 0.3%;
+    border: 0px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+input {
+    width: 35%;
+    height: 20px;
+    padding-left: 10px;
+}
+
+form{
+    padding: 0.5px;
+    text-align: center;
+}
+
+.message {
+    width: 35%;
+    padding-left: 10px;
+}
+
+button {
+    background-color: rgb(101, 210, 174);
+    color: black;
+    width: 36.5%;
+    border: 0px;
+    height: 4.3vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+img {
+   align-items: center;
+   align-self: start;
+   align-content: center;
+}
+
+.frt {
+    width: 100%;
+}
